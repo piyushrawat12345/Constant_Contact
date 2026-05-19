@@ -1,0 +1,14 @@
+.navbar
+{
+    display: flex;
+}
+
+.navbar h2
+{
+    margin-left: 40px;
+}
+
+.navbar input
+{
+    width: 300px;
+}
